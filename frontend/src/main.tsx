@@ -7,7 +7,7 @@ import { AuthenticatePage } from "./pages/authenticate";
 import { DashboardPage } from "./pages/dashboard";
 import { ConnectionPage } from "./pages/connection";
 import { OrganizationLoginPage } from "./pages/organization-login";
-import "./globals.css";
+import "./index.css";
 
 const router = createBrowserRouter([
   {
